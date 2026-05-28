@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muskan Sirse</h1>
-<h3 align="center">A passionate Mern Developer and Competitive Programmer</h3>
+<h3 align="center">A passionate Angular Developer and Competitive Programmer</h3>
 
 - 👉 I’m currently learning **DSA**
 
