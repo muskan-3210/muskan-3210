@@ -3,7 +3,7 @@
 
 - 👉 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [https://muskan-sirse.vercel.app/](https://muskan-sirse.vercel.app/)
+- 👨‍💻 It's my Web [https://muskan-sirse.vercel.app/](https://muskan-sirse.vercel.app/)
 
 - 👉 Reach me through - **https://www.linkedin.com/in/muskan-sirse-b97651221/**
 
