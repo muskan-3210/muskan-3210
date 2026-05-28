@@ -5,7 +5,7 @@
 
 - 👨‍💻 It's my Web [https://muskan-sirse.vercel.app/](https://muskan-sirse.vercel.app/)
 
-- 👉 Reach me through - **https://www.linkedin.com/in/muskan-sirse-b97651221/**
+- 👉 Reach me through - **[https://www.linkedin.com/in/muskan-sirse/](https://www.linkedin.com/in/muskan-sirse/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
