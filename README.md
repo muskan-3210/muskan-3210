@@ -176,14 +176,6 @@ const muskan: Developer = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Muskan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muskan-3210&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 
 ## 🤝 Connect With Me
 
