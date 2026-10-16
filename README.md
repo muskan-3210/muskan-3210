@@ -75,7 +75,7 @@ const muskan: Developer = {
       </a>
       <br/>
       <a href="https://headphone-w.netlify.app/" target="_blank">
-        <img src="./assets/glassmorphism-label.svg" alt="Glassmorphism animated website" width="300" />
+        <img src="./assets/glassmorphism-label.svg" alt="Glassmorphism animated website" width="250" />
       </a>
     </td>
     <td width="50%" align="center">
@@ -84,7 +84,7 @@ const muskan: Developer = {
       </a>
       <br/>
      <a href="https://aurel-perfume.netlify.app/" target="_blank">
-      <img src="./assets/liquid-glass-label.svg" alt="Liquid Glass animated website" width="300" />
+      <img src="./assets/liquid-glass-label.svg" alt="Liquid Glass animated website" width="250" />
     </a>
     </td>
   </tr>
