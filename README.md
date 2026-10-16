@@ -69,19 +69,88 @@ const muskan: Developer = {
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" valign="top">
       <a href="https://headphone-w.netlify.app/" target="_blank">
         <img src="./assets/nexora-headphones.png" alt="NEXORA Headphones Website" width="100%" />
       </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Glassmorphism-Animated%20Website-7C6CFF?style=for-the-badge&labelColor=1B1740" alt="Glassmorphism animated website" />
+      <p align="center"><strong>🔮 Glassmorphism animated website</strong></p>
+      <details>
+        <summary>View glass button code</summary>
+
+```html
+<button class="glass-btn">Glass Button</button>
+```
+
+```css
+.glass-btn {
+  padding: 14px 28px;
+  color: #efebff;
+  font: 500 14px "Space Grotesk", sans-serif;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  background: linear-gradient(135deg, rgba(255,255,255,.22), rgba(255,255,255,.06));
+  border: 1px solid rgba(255,255,255,.3);
+  border-radius: 20px;
+  backdrop-filter: blur(16px) saturate(140%);
+  -webkit-backdrop-filter: blur(16px) saturate(140%);
+  box-shadow: 0 8px 30px rgba(5,3,15,.5), inset 0 1px 0 rgba(255,255,255,.5);
+  cursor: pointer;
+  transition: transform .25s ease, background .25s ease;
+}
+.glass-btn:hover {
+  transform: translateY(-2px);
+  background: linear-gradient(135deg, rgba(255,255,255,.3), rgba(255,255,255,.1));
+}
+```
+
+      </details>
     </td>
-    <td width="50%" align="center">
+    <td width="50%" valign="top">
       <a href="https://aurel-perfume.netlify.app/" target="_blank">
         <img src="./assets/aurel-perfume.png" alt="AUREL Perfume Website" width="100%" />
       </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Liquid%20Glass-Animated%20Website-C9A24B?style=for-the-badge&labelColor=2A1B0C" alt="Liquid Glass animated website" />
+      <p align="center"><strong>💧 Liquid Glass animated website</strong></p>
+      <details>
+        <summary>View liquid glass button code</summary>
+
+```html
+<button class="liquid-btn">Liquid Glass</button>
+```
+
+```css
+.liquid-btn {
+  position: relative;
+  padding: 16px 36px;
+  color: #fff6e4;
+  font: 600 16px "Manrope", sans-serif;
+  background: linear-gradient(180deg, rgba(58,42,20,.92), rgba(18,11,4,.95) 55%, rgba(74,44,10,.95));
+  border: 1.5px solid rgba(226,180,90,.7);
+  border-radius: 999px;
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  box-shadow:
+    0 12px 28px rgba(255,122,26,.35),
+    inset 0 2px 0 rgba(255,242,207,.6),
+    inset 0 -8px 14px rgba(255,154,60,.3);
+  cursor: pointer;
+  transition: transform .25s ease, box-shadow .25s ease;
+}
+.liquid-btn::before {
+  content: "";
+  position: absolute;
+  inset: 4px 14px auto;
+  height: 38%;
+  border-radius: 999px;
+  background: linear-gradient(180deg, rgba(255,255,255,.5), transparent);
+  pointer-events: none;
+}
+.liquid-btn:hover {
+  transform: translateY(-2px) scale(1.03);
+  box-shadow: 0 16px 36px rgba(255,122,26,.5), inset 0 2px 0 rgba(255,242,207,.8), inset 0 -8px 14px rgba(255,154,60,.4);
+}
+```
+
+      </details>
     </td>
   </tr>
 </table>
