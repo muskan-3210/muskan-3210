@@ -83,9 +83,9 @@ const muskan: Developer = {
         <img src="./assets/aurel-perfume.png" alt="AUREL Perfume Website" width="100%" />
       </a>
       <br/>
-      <a href="https://aurel-perfume.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Liquid%20Glass-Animated%20Website-6d1550?style=for-the-badge&labelColor=ff3fcf&logo=vercel&logoColor=white" alt="Liquid Glass animated website" />
-      </a>
+     <a href="https://aurel-perfume.netlify.app/" target="_blank">
+      <img src="./assets/liquid-glass-label.svg" alt="Liquid Glass animated website" width="100%" />
+    </a>
     </td>
   </tr>
 </table>
