@@ -67,12 +67,10 @@ const muskan: Developer = {
 
 ## ✨ Animated Web Experiences
 
-> *Immersive, motion-driven landing pages built with a focus on smooth animations and premium UI.*
-
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🎧 NEXORA — Headphones Landing Page</h3>
+      <h3 align="center">🎧 NEXORA — Headphones</h3>
       <p align="center">
         <a href="https://headphone-w.netlify.app/" target="_blank">
           <img src="./assets/nexora-headphones.png" alt="NEXORA Headphones Website" width="100%" />
@@ -83,11 +81,14 @@ const muskan: Developer = {
           <img src="https://img.shields.io/badge/Live-Demo-6C63FF?style=for-the-badge&logo=netlify&logoColor=white" />
         </a>
       </p>
-      <p>A futuristic product landing page with a dark glassmorphism theme, floating 3D-style elements, gradient typography and smooth scroll animations. Designed to make the product feel immersive.</p>
-      <p><strong>Highlights:</strong> Glassmorphism · Gradient Text · Scroll Animations · Dark/Light Toggle</p>
+      <p align="center"><em>Dark, futuristic product page built with <strong>Glassmorphism</strong> — frosted glass cards, soft glow and smooth motion.</em></p>
+      <p align="center">
+        <strong>Theme:</strong> Violet · Indigo · Midnight<br/>
+        <strong>Fonts:</strong> Space Grotesk · DM Sans
+      </p>
     </td>
     <td width="50%">
-      <h3 align="center">🌿 AUREL — Luxury Perfume Website</h3>
+      <h3 align="center">🌿 AUREL — Perfume</h3>
       <p align="center">
         <a href="https://aurel-perfume.netlify.app/" target="_blank">
           <img src="./assets/aurel-perfume.png" alt="AUREL Perfume Website" width="100%" />
@@ -98,8 +99,11 @@ const muskan: Developer = {
           <img src="https://img.shields.io/badge/Live-Demo-C9A24B?style=for-the-badge&logo=netlify&logoColor=white" />
         </a>
       </p>
-      <p>An elegant luxury fragrance website with a warm amber palette, flowing liquid visuals, floating golden droplets and refined serif typography that conveys premium branding.</p>
-      <p><strong>Highlights:</strong> Parallax Effects · Elegant Typography · Cinematic Visuals · Luxury UI</p>
+      <p align="center"><em>Luxury fragrance site built with <strong>Liquid Glass</strong> — flowing amber visuals, golden droplets and elegant serif type.</em></p>
+      <p align="center">
+        <strong>Theme:</strong> Amber · Gold · Deep Brown<br/>
+        <strong>Fonts:</strong> Cormorant Garamond · Manrope
+      </p>
     </td>
   </tr>
 </table>
