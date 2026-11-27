@@ -25,7 +25,6 @@ const muskan: Developer = {
   focus:       ["Scalable Web Apps", "Clean Architecture", "DSA"],
   interests:   ["Competitive Programming", "Open Source", "UI Engineering"],
   currentGoal: "Landing a Software Engineer / Frontend Developer role",
-  funFact:     "I debug with console.log and I'm proud of it 🙃"
 };
 ```
 
